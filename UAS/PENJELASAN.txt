@@ -1,0 +1,2 @@
+untuk akses via mobile ExpoGo harus menggunakan IP dengan jaringan yg sama (harus mengubah backend dan frontendnya bagian API)
+untuk akses web bisa langsung gunakan localhost saja (delete via web tidak bisa karena menggunakan alert yg hanya berfungsi di ExpoGo)
