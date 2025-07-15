@@ -1,3 +1,9 @@
+Anggota Kelompok:
+- 1123102122 = Habibul Halim Cahyono
+- 1123102134 = Lukman Hairomin
+- 1123102135 = Sholeh 'Aathif
+- 1123102138 = Favian Nurruddin
+
 untuk akses via mobile ExpoGo harus menggunakan IP dengan jaringan yg sama (harus mengubah backend dan frontendnya bagian API)
 untuk akses web bisa langsung gunakan localhost saja (delete via web tidak bisa karena menggunakan alert yg hanya berfungsi di ExpoGo)
 
